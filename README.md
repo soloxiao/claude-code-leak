@@ -1,2 +1,10 @@
 # claude-code-leak
-3月31日Claude Code泄露的源代码，包含新功能，美国大模型头部公司Anthropic因构建配置失误，意外通过npm注册表中的源映射文件泄露了Claude Code源代码
+3月31日，Claude Code泄露的源代码，包含了新功能，能编译！能运行！
+
+母公司Anthropic打包失误，直接把源代码一起传上来了。
+
+
+
+> 不过还有很多组件缺失，但核心功能是在的。
+>
+> 可以直接让ClaudeCode修复。
