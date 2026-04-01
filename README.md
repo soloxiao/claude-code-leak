@@ -1,5 +1,5 @@
 # Claude Code Source Repository Summary
-
+[中文](https://github.com/soloxiao/claude-code-leak/blob/main/summary-cn.md)
 ## Overview
 
 This repository contains the complete client-side source code of **Claude Code** — Anthropic's official AI-powered coding assistant CLI tool. It provides a terminal-based interactive interface for developers to collaborate with Claude AI on reading, writing, editing, and analyzing code through conversation.
